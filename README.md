@@ -12,3 +12,12 @@ alfred-workflow
   输入中文翻译成匹配变量名或函数名
 
   ![image-20200116135221527](./img/codelf.png)
+
+ 
+
+* Tools
+
+  输入 t ,参数1 是时间 2 是显示本机ip(只支持mac)
+
+  ![image-20200612110203415](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfpbptlj8vj30vg06qtcc.jpg)
+
