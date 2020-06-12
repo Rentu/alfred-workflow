@@ -22,3 +22,11 @@ alfred-workflow
   ![image-20200612110650372](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfpbus13ooj30us05wmzg.jpg)
 
   ![image-20200612110805698](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfpbw2su5jj30uy05idhg.jpg)
+
+
+
+* 百度
+
+  发现 alfred 自带的搜索引擎没有百度，用的时候会不方便，输入 bd 加参数即可 
+
+  ![image-20200612111029800](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfpbyktrdyj30us05omye.jpg)
