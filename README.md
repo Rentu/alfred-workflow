@@ -5,13 +5,13 @@ alfred-workflow
 
   调用google翻译api，需要注册账号,下载证书，所以，写了一个直接跳转的，下载双击使用
 
-  ![image-20200116135221527](./img/image-20200116135221527.png)
+  ![image-20200116135221527](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfpbsd0cc3j30vy06o424.jpg)
 
 * Codelf
 
   输入中文翻译成匹配变量名或函数名
 
-  ![image-20200116135221527](./img/codelf.png)
+  ![image-20200116135221527](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfpbsf1xgbj30vq06oad5.jpg)
 
  
 
