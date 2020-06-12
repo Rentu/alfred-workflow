@@ -17,7 +17,8 @@ alfred-workflow
 
 * Tools
 
-  输入 t ,参数1 是时间 2 是显示本机ip(只支持mac)
+  输入 t ,参数1 是时间 2 是显示本机ip,enter 复制
 
-  ![image-20200612110203415](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfpbptlj8vj30vg06qtcc.jpg)
+  ![image-20200612110650372](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfpbus13ooj30us05wmzg.jpg)
 
+  ![image-20200612110805698](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfpbw2su5jj30uy05idhg.jpg)
